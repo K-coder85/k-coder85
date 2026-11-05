@@ -23,34 +23,40 @@ I'm a graduate with a growing passion for technology, software development, netw
 - 📚 Continuously strengthening my technical knowledge through hands-on practice, labs, and personal projects.
 - 🎯 Working towards a career in cybersecurity, with a growing interest in Security Operations (SOC) and threat detection.
 
-### 🛠️ Technologies & Tools
 
-**Networking & Cybersecurity**
-- cybersecurity Fundamentals
-- Network security fundamentals 
-- TCP/IP
-- DNS & DHCP
-- ARP
-- TCP & UDP
-- Network Troubleshooting
-- Authentication, Authorization & Accounting (AAA)
+<h2>🛠️ Technologies & Tools</h2>
 
-**Programming & Scripting**
-- Python
-  
-**Frontend Web Development**
-- HTML
-- CSS
-- JavaScript
-- React
+<h3>🔐 Cybersecurity & Networking</h3>
 
+<p>
+  <img src="https://img.shields.io/badge/Networking_Fundamentals-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DNS-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DHCP-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OSI_Model-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Network_Security-172554?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TCP_UDP-0369A1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ARP-075985?style=for-the-badge" />
+</p>
 
-**Tools & Platforms**
-- Git
-- GitHub
-- Visual Studio Code
-- Cisco packet Tracer
-- Linux (Foundational learning)
+<h3>🐍 Programming</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<h3>🌐 Frontend Web Development</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+<h3>💻 Tools & Platforms</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
 
 ### 📖 Currently Learning
 
