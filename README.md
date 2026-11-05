@@ -5,7 +5,7 @@ Exploring cybersecurity, understanding networks, and building practical technica
 
 
 
-Welcome to my GitHub!
+# Welcome to my GitHub!
 
 I'm a graduate with a growing passion for technology, software development, networking, and cybersecurity. I enjoy learning how technology works, solving problems, and building practical projects as I develop my technical skills.
 
