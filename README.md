@@ -8,52 +8,100 @@ I'm a graduate with a growing passion for technology, software development, netw
 
 ### 🚀 About Me
 
-- 💻 Exploring web development and software engineering.
-- 🐍 Learning Python programming.
-- 🌐 Building my understanding of computer networking.
-- 🔐 Developing my knowledge of cybersecurity.
-- 📚 Committed to continuous learning and hands-on projects.
-- 🎯 Long-term goal: Specializing in Cybersecurity.
+- 🔒 Passionate about cybersecurity, information security, and protecting digital environments.
+- 🌐 Building practical knowledge of computer networking, network infrastructure, and network security.
+- 🐍 Developing my Python programming skills for automation, problem-solving, and cybersecurity applications.
+- 💻 Exploring frontend web development with HTML, CSS, JavaScript, and React as an additional technical skill.
+- 🖥️ Learning Linux, system administration, and security tools.
+- 📚 Continuously strengthening my technical knowledge through hands-on practice, labs, and personal projects.
+- 🎯 Working towards a career in cybersecurity, with a growing interest in Security Operations (SOC) and threat detection.
 
 ### 🛠️ Technologies & Tools
 
-**Web Development**
+**Networking & Cybersecurity**
+- cybersecurity Fundamentals
+- Network security fundamentals 
+- TCP/IP
+- DNS & DHCP
+- ARP
+- TCP & UDP
+- Network Troubleshooting
+- Authentication, Authorization & Accounting (AAA)
+
+**Programming & Scripting**
+- Python
+  
+**Frontend Web Development**
 - HTML
 - CSS
 - JavaScript
 - React
 
-**Programming**
-- Python
 
-**Tools**
+**Tools & Platforms**
 - Git
 - GitHub
 - Visual Studio Code
-
-**Networking & Cybersecurity**
-- Networking Fundamentals
-- TCP/IP
-- DNS
-- DHCP
-- OSI Model
-- Cybersecurity Fundamentals
+- Cisco packet Tracer
+- Linux (Foundational learning)
 
 ### 📖 Currently Learning
 
+### Cybersecurity & Networking
+
+- Endpoint security
+  
+- Network Defense
+
+- Security Operations Centre (SOC) Fundamentals
+
+- Security Monitoring & Threat Detection
+
+- Network Protocols and Security
+
+- Linux Fundamentals
+
+### Programming
+
 - Python Programming
+
+- Python for Network Automation
+
+- Python for Cybersecurity
+
+### Web Development
+
 - React Development
-- Computer Networking
-- Cybersecurity Fundamentals
-- Linux and System Administration
 
-### 💻 Projects
+- JavaScript and DOM Manipulation
 
-Here are some areas I'm working on:
 
-- Web Development Projects
-- Python Programming Projects
-- Networking and Cybersecurity Labs
+### 💻 Projects & Practical Experience
+
+I'm using practical projects and hands-on exercises to strengthen my technical skills.
+
+### 🌐 Web Development
+
+- Personal Portfolio Website
+
+- Solar System Landing Page – React Group Capstone Project
+
+### 🐍 Python Programming
+
+- Python Fundamentals and Problem-Solving Exercises
+
+- Python Practice Projects
+
+### 🔐 Networking & Cybersecurity
+
+- Cisco Packet Tracer Networking Labs
+
+- Network Configuration and Troubleshooting Exercises
+
+- Network Protocol and Security Exercises
+
+More projects coming as I continue learning and building.
+
 
 ### 🤝 Let's Connect
 
