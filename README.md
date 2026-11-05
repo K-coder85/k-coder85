@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0055AA,100:00CFFF&height=180&section=header&text=CYBERSECURITY%20%7C%20NETWORKING&fontSize=30&fontColor=FFFFFF&fontAlignY=40&desc=Learn%20%7C%20Build%20%7C%20Secure&descAlignY=60&animation=fadeIn" width="100%" />
+</p>
+
 # Hi, I'm Darasimi 👋
 
 ### Cybersecurity & Networking Enthusiast | Aspiring Cybersecurity professional | Frontend Web Developer 
