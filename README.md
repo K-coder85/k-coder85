@@ -26,17 +26,15 @@ I'm a graduate with a growing passion for technology, software development, netw
 
 <h2>🛠️ Technologies & Tools</h2>
 
-<h3>🔐 Cybersecurity & Networking</h3>
+<h3>🔐 Cybersecurity & Networking Tools</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Networking_Fundamentals-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/TCP%2FIP-0078D4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DNS-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DHCP-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OSI_Model-0A66C2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Network_Security-172554?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TCP_UDP-0369A1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ARP-075985?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nmap-1679A7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge" />
 </p>
 
 <h3>🐍 Programming</h3>
