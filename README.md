@@ -1,6 +1,6 @@
 # Hi, I'm Darasimi 👋
 
-### Cybersecurity & Networking Enthusiast| Frontend Web Developer 
+### Cybersecurity & Networking Enthusiast | Aspiring Cybersecurity professional | Frontend Web Developer 
 
 Welcome to my GitHub!
 
