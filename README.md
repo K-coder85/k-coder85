@@ -57,10 +57,7 @@ I'm a graduate with a growing passion for technology, software development, netw
 </p>
 
 
-
-
-
-### 📖 Currently Learning
+## 📖 Currently Learning
 
 ### Cybersecurity & Networking
 
