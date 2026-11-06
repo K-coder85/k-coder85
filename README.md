@@ -57,7 +57,7 @@ I'm a graduate with a growing passion for technology, software development, netw
 </p>
 
 
-## 📖 Currently Learning
+### 📖 Currently Learning
 
 ### Cybersecurity & Networking
 
@@ -94,9 +94,11 @@ I'm using practical projects and hands-on exercises to strengthen my technical s
 
 ### 🌐 Web Development
 
-- Personal Portfolio Website
+- Personal Portfolio Website (http://127.0.0.1:5500/my%20Portfolio/myportfoilio.html)
 
-- Solar System Landing Page – React Group Capstone Project
+- Solar System Landing Page – React Group Capstone Project (https://ts-group2-planetary-science.netlify.app/)
+
+- Clone YouTube(http://127.0.0.1:5500/YOUTUBE/youtube.html)
 
 ### 🐍 Python Programming
 
